@@ -1,2 +1,7 @@
 .vscode
 a.out
+*.pgm
+*.pgm~
+image-process-C/imgs/*
+image-process-C/bin/*
+start
