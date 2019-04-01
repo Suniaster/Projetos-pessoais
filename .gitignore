@@ -5,3 +5,4 @@ a.out
 image-process-C/imgs/*
 image-process-C/bin/*
 start
+__pycache__/
